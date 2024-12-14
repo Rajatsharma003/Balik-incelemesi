@@ -1,7 +1,3 @@
-Here’s the translated version of your GitHub README in Turkish, formatted with Markdown and including the links to your website:
-
----
-
 # 🎣 Türkiye'de Balıkçılık Teknikleri  
 ## 🌊 Türkiye'nin Zengin Balıkçılık Mirasını Keşfedin  
 

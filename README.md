@@ -1,6 +1,4 @@
-Here’s an updated version of your bio with **web development projects** added. Feel free to provide details about specific projects, and I’ll refine this further!  
 
----
 
 # 👋 Hi, I'm Rajat Sharma!  
 ### 🌐 [Visit My Website](https://www.balklkincelemesi.site/)  
